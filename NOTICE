@@ -1,0 +1,6 @@
+mojo-prometheus
+Copyright 2026 AMARBARO · amarbaro.org labs <dev@amarbaro.org>
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+src/pyformat is a copy of mojo-pyformat 0.2 (same owner, Apache-2.0), vendored for a clone build.
