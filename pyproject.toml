@@ -1,6 +1,6 @@
 [project]
 name = "mojo-prometheus"
-version = "0.1.1"
+version = "0.1.2"
 description = "Prometheus metrics for Mojo: counters, gauges, histograms, summaries with labels, text exposition byte-identical with prometheus_client"
 license = "Apache-2.0"
 requires-python = ">=3.11,<3.15"
